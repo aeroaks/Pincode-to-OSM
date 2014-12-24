@@ -12,3 +12,7 @@ Steps to get OSM link from desired Pincode:
 3) OSM Nominatim is used to query and retrieve Lat./Long. values for the place on OSM.
 
 4) Location values are added to the OSM URL and given as output of the script.
+
+TODO:
+=====
+1) Generate ShortLink using https://gist.github.com/mdornseif/5652824
